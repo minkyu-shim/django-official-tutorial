@@ -1,0 +1,38 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django database (local development only)
+db.sqlite3
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# PyCharm project settings
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+
+# Byte-compiled / optimized files
+*.py[cod]
+*$py.class
+
+# Migrations cache (optional - keep if you want history)
+# */migrations/__pycache__/
+
+# Coverage / test reports
+htmlcov/
+.tox/
+.coverage
+coverage.xml
